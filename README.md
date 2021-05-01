@@ -1,7 +1,7 @@
 [![npm version](https://badge.fury.io/js/react-native-modal-dropdown.svg)](https://badge.fury.io/js/react-native-modal-dropdown)
 
 # react-native-modal-dropdown
-A react-native dropdown/picker/selector component for both Android & iOS.
+A custom react-native dropdown/picker/selector component for both Android & iOS.
 
 ## Features
 - Pure JS.
@@ -26,7 +26,7 @@ You can find them in the example.
 
 ## Installation
 ```sh
-npm i react-native-modal-dropdown -save
+npm i react-native-custom-modal-dropdown -save
 ```
 
 ## Usage
@@ -85,6 +85,3 @@ Method            |  Description
 `show()`          |  Show the dropdown. **Won't trigger `onDropdownWillShow`.**
 `hide()`          |  Hide the dropdown. **Won't trigger `onDropdownWillHide`.**
 `select(idx)`     |  Select the specified option of the `idx`. Select `-1` will reset it to display `defaultValue`. **Won't trigger `onSelect`.**
-
-## Next version
-Any suggestion is welcome.
