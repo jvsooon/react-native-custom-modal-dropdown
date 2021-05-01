@@ -3,27 +3,6 @@
 # react-native-modal-dropdown
 A custom react-native dropdown/picker/selector component for both Android & iOS.
 
-## Features
-- Pure JS.
-- Compatible with both iOS and Android.
-- Auto position. (Won't be covered or clipped by the edge of screen.)
-- Zero configuration. (Options are needed of course or a loading indicator will show.)
-- Highly customizable.
-- Controllable with API by code. (Show/Hide/Select)
-- Change everything into a dropdown list trigger.
-
-## Demo
-<img src="https://github.com/sohobloo/react-native-modal-dropdown/blob/master/docs/demo_1.gif?raw=true" width = "160" height = "287.5" alt="Demo 1"/> <img src="https://github.com/sohobloo/react-native-modal-dropdown/blob/master/docs/demo_2.gif?raw=true" width = "160" height = "287.5" alt="Demo 2"/> <img src="https://github.com/sohobloo/react-native-modal-dropdown/blob/master/docs/demo_3.gif?raw=true" width = "160" height = "287.5" alt="Demo 3"/>
-
-You can find them in the example.
-
-## Update History
-
-### v0.7.0
-- Quick fix for react native 0.60. (Thanks to [@ibtesamlatif2997](https://github.com/ibtesamlatif2997))
-
-[Full update history list](https://github.com/sohobloo/react-native-modal-dropdown/wiki/Update-History)
-
 ## Installation
 ```sh
 npm i react-native-custom-modal-dropdown -save
