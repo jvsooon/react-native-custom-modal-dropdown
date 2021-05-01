@@ -1,7 +1,7 @@
 {
-  "name": "react-native-modal-dropdown",
+  "name": "react-native-custom-modal-dropdown",
   "version": "0.7.0",
-  "description": "A react-native dropdown component for both iOS and Android.",
+  "description": "A customized react-native dropdown component for both iOS and Android.",
   "keywords": [
     "react",
     "react-component",
@@ -16,17 +16,17 @@
     "selector",
     "option"
   ],
-  "homepage": "https://github.com/sohobloo/react-native-modal-dropdown",
+  "homepage": "https://github.com/jvsooon/react-native-custom-modal-dropdown",
   "bugs": {
-    "url": "https://github.com/sohobloo/react-native-modal-dropdown/issues",
-    "email": "sohobloo@live.cn"
+    "url": "https://github.com/jvsooon/react-native-custom-modal-dropdown/issues",
+    "email": ""
   },
   "license": "MIT",
-  "author": "sohobloo <sohobloo@live.cn> (https://github.com/sohobloo)",
+  "author": "jvsooon (https://github.com/jvsooon)",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sohobloo/react-native-modal-dropdown.git"
+    "url": "https://github.com/jvsooon/react-native-custom-modal-dropdownit"
   },
   "dependencies": {
     "prop-types": "^15.6.0",
