@@ -1,6 +1,6 @@
 {
   "name": "react-native-custom-modal-dropdown",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A custom react-native dropdown component for both iOS and Android.",
   "keywords": [
     "react",
